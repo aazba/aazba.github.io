@@ -1,3 +1,4 @@
+theme: minima
 <!DOCTYPE html>
 
 <body>
